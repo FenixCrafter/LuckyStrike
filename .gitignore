@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebAPI/obj/Debug/net6.0/WebApi.assets.cache
+/WebAPI/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/WebAPI/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/WebAPI/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/WebAPI/obj/project.assets.json
+/WebAPI/obj/project.nuget.cache
+/WebAPI/obj/WebApi.csproj.nuget.dgspec.json
+/WebAPI/obj/WebApi.csproj.nuget.g.props
+/WebAPI/.vs/WebApi/DesignTimeBuild/.dtbcache.v2
+/WebAPI/obj/Debug/net6.0/staticwebassets
+/WebAPI/obj/Debug/net6.0/ref/WebApi.dll
+/WebAPI/obj/Debug/net6.0/refint/WebApi.dll
+/WebAPI/obj/Debug/net6.0/apphost.exe
+/WebAPI/obj/Debug/net6.0
+/WebAPI/.vs/WebApi/FileContentIndex
+/WebAPI/bin/Debug/net6.0
+/WebAPI/.vs/ProjectEvaluation/webapi.metadata.v6.1
+/WebAPI/.vs/ProjectEvaluation/webapi.projects.v6.1
+/WebAPI/.vs/WebApi/config/applicationhost.config
+/WebAPI/.vs/WebApi/v17/.futdcache.v2
+/WebAPI/.vs/WebApi/v17/.suo
+/WebAPI/obj/WebApi.csproj.nuget.g.targets
+ApiClient.ts
